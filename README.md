@@ -13,3 +13,9 @@ Elm Setup
 * cmd: sudo apm install linter-elm-make
 * cmd: which elm-make
 * Atom -> package -> linter-elm-make, settings -> change path 
+* cmd: mkdir elmHelloWorld
+* cmd: cd elmHelloWorld
+* cmd: elm-package install
+* Create main.elm to do your elm stuffs
+* cmd: elm-reactor
+* Run the http://localhost:8000 and click main.elm
