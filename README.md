@@ -7,7 +7,7 @@ Elm Setup
 * cmd: which elm-oracle
 * Atom -> package -> language-elm, settings -> change path 
 * Download elm-format from https://github.com/avh4/elm-format
-* cmd: sudo mv /Users/pentaur/Downloads/elm-format  /usr/local/bin/elm-format
+* cmd: sudo mv /Users/{user}/Downloads/elm-format  /usr/local/bin/elm-format
 * cmd: sudo apm install elm-format
 * cmd: sudo apm install linter
 * cmd: sudo apm install linter-elm-make
